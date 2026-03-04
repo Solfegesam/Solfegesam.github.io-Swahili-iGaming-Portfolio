@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Samuel Barasa Banner"/>
+  <img width="710" height="200" alt="image" src="https://github.com/user-attachments/assets/805d90ee-f9bf-4666-b808-23aa7aaeb7d6" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Samuel Barasa</h1>
