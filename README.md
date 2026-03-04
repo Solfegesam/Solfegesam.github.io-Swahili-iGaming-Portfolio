@@ -1,3 +1,5 @@
+![Portfolio CI](https://github.com/Solfegesam/YOUR-REPO-NAME/actions/workflows/node.js.yml/badge.svg)
+
 <p align="center">
   <img width="710" height="200" alt="image" src="https://github.com/user-attachments/assets/805d90ee-f9bf-4666-b808-23aa7aaeb7d6" />
 </p>
